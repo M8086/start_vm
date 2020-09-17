@@ -11,4 +11,4 @@ Upon successful completion, the script will return a message including the VM na
 See the following article to setup environment variables and prep your Azure environment for running scripts:
 https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-authenticate?tabs=cmd#authenticate-with-token-credentials
 
-Use the included requirements.txt to install the Python Azure SDK
+Use the included requirements.txt to install the necessary modules from the Azure SDK
